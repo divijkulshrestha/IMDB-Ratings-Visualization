@@ -1,4 +1,4 @@
-# IMDB-Ratings-Visualization
+# IMDB Ratings Visualization
 Visualizing IMDb Ratings of TV Series episodes
 
 ratings.py contains functions for scraping IMDb ratings for each episode of a series, and then plotting it in the style of visualization
